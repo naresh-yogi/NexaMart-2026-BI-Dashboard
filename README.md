@@ -1,6 +1,6 @@
 # NexaMart 2026 — Executive Operations & Financial BI Dashboard
 
-<img width="1680" height="1050" alt="Screenshot 2026-11-24 at 4 44 48 PM" src="https://github.com/user-attachments/assets/2e65012b-33c5-4765-b4cb-f647dc0c0656" />
+<img width="1611" height="820" alt="Screenshot 2026-11-24 at 4 50 53 PM" src="https://github.com/user-attachments/assets/dc232a4a-df88-408a-a804-d2d307dbc593" />
 
 An end-to-end Excel Business Intelligence capstone project tracking order fulfillment, net revenue, gross profit margin, acquisition channels, brand performance, and regional manager SLA delivery speed across **Jan–Sep 2026**.
 
