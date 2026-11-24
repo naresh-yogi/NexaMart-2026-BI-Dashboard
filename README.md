@@ -22,6 +22,6 @@ An end-to-end Excel Business Intelligence capstone project tracking order fulfil
 - **Single-Page Print/PDF Ready:** Configured print area, margins, and layout scaling on `13_Dashboard` for clean single-page executive viewing.
 
 ## Repository Structure
-- `NexaMart_2026_Excel_Capstone_Workbook.xlsx` — Complete Excel workbook with data model, pivots, helper tables, and dashboard.
+- `1 NexaMart_2026_Excel_Capstone_Workbook(AutoRecovered).xlsx` — Complete Excel workbook with data model, pivots, helper tables, and dashboard.
 - `NexaMart_2026_Excel_Capstone_Workbook.pdf` — Single-page exported dashboard snapshot.
-- `assets/dashboard_preview.png` — Dashboard preview image.
+- `NexaMart_2026_Dataset_Pack.zip` — Complete files including raw data.
